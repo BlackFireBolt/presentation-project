@@ -35,7 +35,7 @@ const colorMapping = {
   "skin_spot": "#9C4406",
   "mole": "#FFA500"
 }
-const url = 'https://cors-anywhere.herokuapp.com/https://www.ailabapi.com/api/portrait/analysis/skin-analysis-advanced'
+const url = 'https://www.ailabapi.com/api/portrait/analysis/skin-analysis-advanced'
 
 function handleFileChange(event) {
     file.value = event.target.files[0]
